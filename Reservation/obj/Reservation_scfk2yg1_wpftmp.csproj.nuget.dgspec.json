@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\1-e jaar\\SECOND SEMESTER\\.NET\\Shapy_Satiko_TIWA1_NetEssentials_EB031\\Skelet\\Reservation\\Reservation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\1-e jaar\\SECOND SEMESTER\\.NET\\Shapy_Satiko_TIWA1_NetEssentials_EB031\\Skelet\\Reservation\\Reservation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\1-e jaar\\SECOND SEMESTER\\.NET\\Shapy_Satiko_TIWA1_NetEssentials_EB031\\Skelet\\Reservation\\Reservation.csproj",
+        "projectName": "Reservation",
+        "projectPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\1-e jaar\\SECOND SEMESTER\\.NET\\Shapy_Satiko_TIWA1_NetEssentials_EB031\\Skelet\\Reservation\\Reservation.csproj",
+        "packagesPath": "C:\\Users\\Sati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\1-e jaar\\SECOND SEMESTER\\.NET\\Shapy_Satiko_TIWA1_NetEssentials_EB031\\Skelet\\Reservation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
